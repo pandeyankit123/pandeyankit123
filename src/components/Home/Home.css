@@ -1,0 +1,26 @@
+html{
+    scroll-behavior: smooth;
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    width: 70%; 
+    margin: auto;
+}
+.menu{
+    width: 68%;
+}
+
+@media only screen and (max-width: 1375px){
+    .home{
+        width: 90%;
+    }
+    .menu{
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 512px){
+    .home{
+        width: 100%;
+    }
+}
