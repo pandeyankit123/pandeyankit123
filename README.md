@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 Portfolio https://github.com/pandeyankit123/pandeyankit123
+- 👨‍💻 Portfolio https://pandeyankit123.github.io/pandeyankit123/
 
 - 📫 How to reach me **ankit.sanupandey@gmail.com**
 
-- 📄 Resume https://github.com/pandeyankit123/pandeyankit123
+- 📄 Resume https://drive.google.com/file/d/1znLau_nKCNmEJhQDbbs2fSxRtqjH8KmF/view
 
 <h3 align="left">Programming Handles:</h3>
 <p align="left">
