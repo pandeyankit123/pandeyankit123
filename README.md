@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.codechef.com/users/laidback" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="laidback" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/laidback" target="blank"><img align="center" src="https://camo.githubusercontent.com/2938a1b5a41629e23ef08c2109a885f9afc578cb2fefef5cd6e5b7227a929405/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f636f64652d666f726365732d333532313335322d323934343739362e706e67" alt="laidback" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pandeyankit_08" target="blank"><img align="center" src="https://camo.githubusercontent.com/13b8fdd93ab46c4ff41f3d8e83f0eaafb503cfa2dc86744cb01b267c2dc01d54/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31392f4c656574436f64655f6c6f676f5f626c61636b2e706e67" alt="pandeyankit_08" height="30" width="40" /></a>
+<a href="https://leetcode.com/Laid-back/" target="blank"><img align="center" src="https://camo.githubusercontent.com/13b8fdd93ab46c4ff41f3d8e83f0eaafb503cfa2dc86744cb01b267c2dc01d54/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31392f4c656574436f64655f6c6f676f5f626c61636b2e706e67" alt="pandeyankit_08" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
