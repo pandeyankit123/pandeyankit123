@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ankit.sanupandey@gmail.com**
 
-- 📄 Resume https://drive.google.com/file/d/1znLau_nKCNmEJhQDbbs2fSxRtqjH8KmF/view
+- 📄 Resume https://drive.google.com/file/d/1vLrlF6Dfu6e9QyGBBiAsjW6Zbx_yGlmO/view
 
 <h3 align="left">Programming Handles:</h3>
 <p align="left">
