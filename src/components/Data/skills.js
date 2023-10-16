@@ -41,9 +41,6 @@ export const SkillsData = [
       {
         icon: <i className="devicon-nodejs-plain-wordmark colored"></i>,
       },
-      {
-        icon: <i className="devicon-spring-plain-wordmark colored"></i>,
-      },
     ],
   },
   {
