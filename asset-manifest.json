@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pandeyankit123/static/css/main.8ac4eae9.css",
-    "main.js": "/pandeyankit123/static/js/main.ef46564a.js",
+    "main.js": "/pandeyankit123/static/js/main.07c37a08.js",
     "static/js/787.c26e7bc8.chunk.js": "/pandeyankit123/static/js/787.c26e7bc8.chunk.js",
     "static/media/nav.jpg": "/pandeyankit123/static/media/nav.fb3675573ffb05cd6143.jpg",
     "static/media/ME.jpg": "/pandeyankit123/static/media/ME.6ccbf0c8baf79b6e4f8f.jpg",
@@ -9,18 +9,18 @@
     "static/media/memoite.JPG": "/pandeyankit123/static/media/memoite.35f32c590c94653d62c4.JPG",
     "static/media/Capture.JPG": "/pandeyankit123/static/media/Capture.2e238092854d4fbba53e.JPG",
     "static/media/chatroom.JPG": "/pandeyankit123/static/media/chatroom.0d0e9e1b336f02f7c79a.JPG",
-    "static/media/Resume_AnkitPandey.pdf": "/pandeyankit123/static/media/Resume_AnkitPandey.11bb35c5b179b90c3254.pdf",
+    "static/media/Resume_AnkitPandey.pdf": "/pandeyankit123/static/media/Resume_AnkitPandey.b11bf1ad136794ec1982.pdf",
     "static/media/leetcode.png": "/pandeyankit123/static/media/leetcode.7e80f19dc3200739ff20.png",
     "static/media/instagram.png": "/pandeyankit123/static/media/instagram.a7ae17746ef2251ba058.png",
     "static/media/codeforces.png": "/pandeyankit123/static/media/codeforces.28cb1bbbcbaeafcc344c.png",
     "static/media/github.png": "/pandeyankit123/static/media/github.6c75ee05afe7a8976267.png",
     "index.html": "/pandeyankit123/index.html",
     "main.8ac4eae9.css.map": "/pandeyankit123/static/css/main.8ac4eae9.css.map",
-    "main.ef46564a.js.map": "/pandeyankit123/static/js/main.ef46564a.js.map",
+    "main.07c37a08.js.map": "/pandeyankit123/static/js/main.07c37a08.js.map",
     "787.c26e7bc8.chunk.js.map": "/pandeyankit123/static/js/787.c26e7bc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ac4eae9.css",
-    "static/js/main.ef46564a.js"
+    "static/js/main.07c37a08.js"
   ]
 }
