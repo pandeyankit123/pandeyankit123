@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/pandeyankit123/static/css/main.8ac4eae9.css",
-    "main.js": "/pandeyankit123/static/js/main.07c37a08.js",
+    "main.css": "/pandeyankit123/static/css/main.9101e57e.css",
+    "main.js": "/pandeyankit123/static/js/main.d0540ca6.js",
     "static/js/787.c26e7bc8.chunk.js": "/pandeyankit123/static/js/787.c26e7bc8.chunk.js",
     "static/media/nav.jpg": "/pandeyankit123/static/media/nav.fb3675573ffb05cd6143.jpg",
+    "static/media/eds1.png": "/pandeyankit123/static/media/eds1.4ef279834305a66a5b3c.png",
+    "static/media/rp2.png": "/pandeyankit123/static/media/rp2.0c05d01b3bbcfd0c215a.png",
+    "static/media/eds3.png": "/pandeyankit123/static/media/eds3.6fe4e08eec19bf2f8887.png",
+    "static/media/rp3.png": "/pandeyankit123/static/media/rp3.0ee1f208573a20a17b2b.png",
     "static/media/ME.jpg": "/pandeyankit123/static/media/ME.6ccbf0c8baf79b6e4f8f.jpg",
-    "static/media/TextUtils.JPG": "/pandeyankit123/static/media/TextUtils.eba453468421ff8a3377.JPG",
-    "static/media/memoite.JPG": "/pandeyankit123/static/media/memoite.35f32c590c94653d62c4.JPG",
+    "static/media/eds2.png": "/pandeyankit123/static/media/eds2.1f7a4b6f0316f9271893.png",
     "static/media/Capture.JPG": "/pandeyankit123/static/media/Capture.2e238092854d4fbba53e.JPG",
-    "static/media/chatroom.JPG": "/pandeyankit123/static/media/chatroom.0d0e9e1b336f02f7c79a.JPG",
-    "static/media/Resume_AnkitPandey.pdf": "/pandeyankit123/static/media/Resume_AnkitPandey.b11bf1ad136794ec1982.pdf",
+    "static/media/Resume_AnkitPandey.pdf": "/pandeyankit123/static/media/Resume_AnkitPandey.13bed877ce06984ac353.pdf",
+    "static/media/rp1.png": "/pandeyankit123/static/media/rp1.77b6c6fb4bc442e91d4c.png",
     "static/media/leetcode.png": "/pandeyankit123/static/media/leetcode.7e80f19dc3200739ff20.png",
     "static/media/instagram.png": "/pandeyankit123/static/media/instagram.a7ae17746ef2251ba058.png",
     "static/media/codeforces.png": "/pandeyankit123/static/media/codeforces.28cb1bbbcbaeafcc344c.png",
     "static/media/github.png": "/pandeyankit123/static/media/github.6c75ee05afe7a8976267.png",
     "index.html": "/pandeyankit123/index.html",
-    "main.8ac4eae9.css.map": "/pandeyankit123/static/css/main.8ac4eae9.css.map",
-    "main.07c37a08.js.map": "/pandeyankit123/static/js/main.07c37a08.js.map",
+    "main.9101e57e.css.map": "/pandeyankit123/static/css/main.9101e57e.css.map",
+    "main.d0540ca6.js.map": "/pandeyankit123/static/js/main.d0540ca6.js.map",
     "787.c26e7bc8.chunk.js.map": "/pandeyankit123/static/js/787.c26e7bc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ac4eae9.css",
-    "static/js/main.07c37a08.js"
+    "static/css/main.9101e57e.css",
+    "static/js/main.d0540ca6.js"
   ]
 }
