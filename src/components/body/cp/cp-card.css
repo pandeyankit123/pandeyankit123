@@ -1,0 +1,48 @@
+.cp-card {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 6px;
+  padding: 4px;
+  margin-bottom: 4px;
+  background-color: #FBF8FF;
+  border-radius: 50px;
+}
+.platform-link{
+    text-decoration: none;
+    color: black;
+}
+.platform-name {
+    font-size: 17px;
+    margin-top: 4px;
+}
+.platform-photo{
+  margin-top: 4px;
+  margin-left: 15px;
+  height: 50px;
+  border-radius: 20px;
+}
+.platform-handle{
+    margin-top: 4px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: gray;
+    margin-bottom: 24px;
+}
+
+@media only screen and (max-width: 720px){
+    .platform-name {
+        font-size: 12px;
+    }
+    .platform-photo{
+      margin-top: 4px;
+      height: 35px;
+      border-radius: 20px;
+    }
+    .platform-handle{
+        font-size: 15px;
+        color: gray;
+    }   
+}

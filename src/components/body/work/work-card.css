@@ -1,0 +1,44 @@
+.work-card{
+    padding: 8px;
+    width: 100%;
+    margin-top: 16px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.work-logo{
+    height: 80px;
+}
+.work-info{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.company-name{
+    font-size: 18px;
+}
+.company-desg{
+    font-size: 15px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.work-dates{
+    font-size: 15px;
+    color: gray;    
+}
+.work-desc{
+    text-align: left;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 80%;
+}
+
+@media only screen and (max-width: 720px){
+    .work-card{
+        width: 100%;
+    }   
+}

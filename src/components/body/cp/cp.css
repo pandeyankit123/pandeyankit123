@@ -1,0 +1,9 @@
+.cp-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    margin-top: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+}
