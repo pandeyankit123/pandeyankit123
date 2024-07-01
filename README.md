@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-* 👨‍💻 <a href="https://pandeyankit123.github.io/pandeyankit123/" target="_blank">Portfolio Link</a>  📄 <a href="https://drive.google.com/file/d/11dtqiJ5J2pEVFh7yqcy_BJHTlzG8fnm8/view" target="_blank">Resume Link</a>
+* 👨‍💻 <a href="https://pandeyankit123.github.io/pandeyankit123/" target="_blank">Portfolio Link</a>  📄 <a href="https://drive.google.com/file/d/1_TCK8I4_Hce_vLU4GwEBA_V6hIWybQF7/view" target="_blank">Resume Link</a>
 
 * 📫 Mail id: **ankit.sanupandey@gmail.com**
 

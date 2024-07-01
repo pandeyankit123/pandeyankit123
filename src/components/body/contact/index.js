@@ -20,7 +20,7 @@ function Contact() {
           <a className="resume-link" download href={require("../../../assets/Resume_AnkitPandeyPr.pdf")}>
             <i className="fi fi-rr-download"></i> Download Resume
           </a>
-          <a className="simple-link" target="_blank" href="https://drive.google.com/file/d/11dtqiJ5J2pEVFh7yqcy_BJHTlzG8fnm8/view">
+          <a className="simple-link" target="_blank" href="https://drive.google.com/file/d/1_TCK8I4_Hce_vLU4GwEBA_V6hIWybQF7/view">
             (Or go with the Link)
           </a>
         </div>
