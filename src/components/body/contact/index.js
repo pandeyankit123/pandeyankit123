@@ -10,13 +10,18 @@ function Contact() {
       <label className="section-title">Contact</label>
       <div className="contact-container">
         <div className="contact-left">
-          <p> Want to get in touch. Contact me on any platform. </p>
+          <p>Want to get in touch? Contact me on any platform.</p>
           <SocialContact />
-          <p>Or mail me : <u style={{color: "blue"}}>ankit.sanupandey@gmail.com</u></p>
+          <p>
+            Or mail me: <u style={{ color: "blue" }}>ankit.sanupandey@gmail.com</u>
+          </p>
         </div>
         <div className="download">
-          <a download href={require('../../../assets/Resume_AnkitPandey.pdf')}>
+          <a className="resume-link" download href={require("../../../assets/Resume_AnkitPandeyPr.pdf")}>
             <i className="fi fi-rr-download"></i> Download Resume
+          </a>
+          <a className="simple-link" target="_blank" href="https://drive.google.com/file/d/11dtqiJ5J2pEVFh7yqcy_BJHTlzG8fnm8/view">
+            (Or go with the Link)
           </a>
         </div>
       </div>

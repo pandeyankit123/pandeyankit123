@@ -1,25 +1,26 @@
 # Hey 🖐, I'm [Ankit Pandey](https://www.linkedin.com/in/pandeyankit123/)
-<p>Third Year Computer Engineering undergrad from Army Institute of Technology,Pune - 2025, with deep interests in Data Structures and Algorithms. I have good Problem Solving Skills and I love to code.</p>
+
+<p>Final Year Computer Engineering undergrad from Army Institute of Technology,Pune - 2025, with deep interests in Data Structures and Algorithms. I have good Problem Solving Skills and I love to code.</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-* 👨‍💻 <a href="https://pandeyankit123.github.io/pandeyankit123/" target="blank">Portfolio Link</a>  📄 <a href="https://drive.google.com/file/d/1uYRBJC8ULUSUfCnKTlp8DwVs6pIu51BG/view" target="blank">Resume Link</a>
+* 👨‍💻 <a href="https://pandeyankit123.github.io/pandeyankit123/" target="_blank">Portfolio Link</a>  📄 <a href="https://drive.google.com/file/d/11dtqiJ5J2pEVFh7yqcy_BJHTlzG8fnm8/view" target="_blank">Resume Link</a>
 
 * 📫 Mail id: **ankit.sanupandey@gmail.com**
 
 <h3 align="left">Programming Handles:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/laidback" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Laidback" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/laidback" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="laidback" height="30" width="40" /></a>
-<a href="https://leetcode.com/Laid-back/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Laid-back" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/laidback" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Laidback" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/laidback" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="laidback" height="30" width="40" /></a>
+<a href="https://leetcode.com/Laid-back/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Laid-back" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankitpandey21135/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ankitpandey" height="30" width="40" /></a>
-<a href="https://instagram.com/pandeyankit_oo7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandeyankit_oo7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankitpandey21135/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ankitpandey" height="30" width="40" /></a>
+<a href="https://instagram.com/pandeyankit_oo7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandeyankit_oo7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
