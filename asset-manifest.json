@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pandeyankit123/static/css/main.1fc8623f.css",
-    "main.js": "/pandeyankit123/static/js/main.bea34541.js",
+    "main.js": "/pandeyankit123/static/js/main.282db79c.js",
     "static/js/787.c26e7bc8.chunk.js": "/pandeyankit123/static/js/787.c26e7bc8.chunk.js",
     "static/media/nav.jpg": "/pandeyankit123/static/media/nav.fb3675573ffb05cd6143.jpg",
     "static/media/rp2.png": "/pandeyankit123/static/media/rp2.dbefb2c4c31627b72c6a.png",
     "static/media/rp4.png": "/pandeyankit123/static/media/rp4.f805750b87616c5a1723.png",
     "static/media/rp3.png": "/pandeyankit123/static/media/rp3.82180d027019ce485804.png",
     "static/media/ME.jpg": "/pandeyankit123/static/media/ME.6ccbf0c8baf79b6e4f8f.jpg",
-    "static/media/Resume_AnkitPandeyPr.pdf": "/pandeyankit123/static/media/Resume_AnkitPandeyPr.167356c6af22114a62db.pdf",
+    "static/media/Resume_AnkitPandeyPr.pdf": "/pandeyankit123/static/media/Resume_AnkitPandeyPr.d6a4bd2bff1c0a14f423.pdf",
     "static/media/ca2.png": "/pandeyankit123/static/media/ca2.3f309e782f5736aa3fb6.png",
     "static/media/ca3.png": "/pandeyankit123/static/media/ca3.cc82a1b2ddf0aa58b88d.png",
     "static/media/Capture.JPG": "/pandeyankit123/static/media/Capture.2e238092854d4fbba53e.JPG",
@@ -20,11 +20,11 @@
     "static/media/ca1.png": "/pandeyankit123/static/media/ca1.2ffab9dc098bbd13934c.png",
     "index.html": "/pandeyankit123/index.html",
     "main.1fc8623f.css.map": "/pandeyankit123/static/css/main.1fc8623f.css.map",
-    "main.bea34541.js.map": "/pandeyankit123/static/js/main.bea34541.js.map",
+    "main.282db79c.js.map": "/pandeyankit123/static/js/main.282db79c.js.map",
     "787.c26e7bc8.chunk.js.map": "/pandeyankit123/static/js/787.c26e7bc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fc8623f.css",
-    "static/js/main.bea34541.js"
+    "static/js/main.282db79c.js"
   ]
 }
